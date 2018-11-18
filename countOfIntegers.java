@@ -1,10 +1,3 @@
-// Assignment #: 2
-// Arizona State University - CSE205
-// Name: Samira Said 
-// Lecture: 3:00p
-// Description: This program reads in an unspecified number of integers from standard input and performs calculations 
-// on the inputted numbers
-
 import java.util.Scanner;  // use the Scanner class located in the "java.util" directory
 
 public class Assignment2 
@@ -43,7 +36,8 @@ public class Assignment2
 		
 			totalCount++;
 
-		}while( number != 0);
+		}
+		while( number != 0);
 
 		System.out.println("The minimum integer is " + min);
 		System.out.println("The count of integers is " + totalCount);
