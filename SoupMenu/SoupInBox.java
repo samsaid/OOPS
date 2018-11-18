@@ -1,9 +1,4 @@
-// Assignment #: 5
-// Arizona State University - CSE205
-// Name: Samira Said
-// StudentID: 1210662853
-// Lecture: TTH 3:00p
-// Description: represents a soup in a carton
+// Description: Child (subclass) of Soup that represents the soup in a carton by defining its height, radius, and price.
 
 //son class of Soupclass
 public class SoupInBox extends Soup {
