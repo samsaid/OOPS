@@ -1,4 +1,4 @@
-//The Assignment 5 class displays a menu of choices
+//The SoupMenu class displays a menu of choices
 //               (add cylinder soup, box soup,search soup,
 //               list soups, quit, display menu) to a user
 //               and performs the chosen task. It will keep asking a user to
@@ -8,7 +8,7 @@
 import java.io.*;         //to use InputStreamReader and BufferedReader
 import java.util.*;       //to use ArrayList
 
-public class Assignment5
+public class SoupMenu
 {
 	public static void main (String[] args)
 	{
