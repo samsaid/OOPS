@@ -1,9 +1,5 @@
-// Assignment #: 5
-// Arizona State University - CSE205
-// Name: Samira Said
-// StudentID: 1210662853
-// Lecture: TTH 3:00p
-// Description: represents the basic attributes of any soup in a contain to be sold
+// Description: This class is the main (parent) abstract class represents the basic attributes of 
+// any soup in a contain to be sold on the menu.
 
 
 import java.text.NumberFormat;
