@@ -1,9 +1,4 @@
-// Assignment #: 5
-// Arizona State University - CSE205
-//         Name: Samira Said
-//    StudentID: 1210662853
-//      Lecture: TTH 3:00p
-//  Description: The Assignment 5 class displays a menu of choices
+//The Assignment 5 class displays a menu of choices
 //               (add cylinder soup, box soup,search soup,
 //               list soups, quit, display menu) to a user
 //               and performs the chosen task. It will keep asking a user to
