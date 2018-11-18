@@ -1,2 +1,3 @@
 # Object Oriented Programs (Java)
-This respritory demonstrates my understanding of Object Oriented Programming in Java with inheritence, abstraction, polymorphism, and encapsulation.
+This respiratory demonstrates my understanding of inheritance, abstraction, polymorphism, and encapsulation, and other fundamentals of Object Oriented Programming.
+
