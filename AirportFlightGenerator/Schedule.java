@@ -1,9 +1,4 @@
-// Assignment #: 4
-// Arizona State University - CSE205
-// Name: Samira Said 
-// StudentID: 1210662853
-// Lecture: 3:00p
-// Description: describes information of departure or arrival of a flight
+//Description: Gets information (city,time) for departure or arrival of a flight.
 
 public class Schedule {
 	//instance variables
