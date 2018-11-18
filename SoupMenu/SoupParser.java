@@ -1,10 +1,4 @@
-
-// Assignment #: 5
-// Arizona State University - CSE205
-// Name: Samira Said
-// StudentID: 1210662853
-// Lecture: TTH 3:00p
-// Description: utility class that will be used to create a soup object
+// Description: This utility class that will be used to create a soup object.
 
 
 public class SoupParser {
