@@ -1,4 +1,5 @@
-// Description: This class generates flight departure city/time and arrival city/time for Assignment4 class.
+// Description: This class generates (returns) flight departure city/time and arrival city/time for Assignment4 class
+// from schedule class.
 
 //class name
 public class Flight {
