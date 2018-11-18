@@ -1,9 +1,4 @@
-// Assignment #: 4
-// Arizona State University - CSE205
-// Name: Samira Said 
-// StudentID: 1210662853
-// Lecture: 3:00p
-// Description: flights for assignment4
+// Description: This class generates flight departure city/time and arrival city/time for Assignment4 class.
 
 //class name
 public class Flight {
