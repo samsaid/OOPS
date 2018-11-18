@@ -1,9 +1,4 @@
-// Assignment #: 5
-// Arizona State University - CSE205
-// Name: Samira Said
-// StudentID: 1210662853
-// Lecture: TTH 3:00p
-// Description: subclass of SoupClass
+// Description: Child (subclass) of SoupClass that will define radius, height, and price of the soup in cylinder.
 
 //daughter of SoupClass
 public class SoupInCylinder extends Soup {
