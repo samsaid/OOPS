@@ -1,7 +1,3 @@
-// Assignment #: 10
-//         Name: Your name
-//    StudentID: Your id
-//  Lab Lecture: Your lecture
 //  Description: The Assignment 10 class displays a menu of choices to a user
 //               and performs the chosen task. It will keep asking a user to
 //               enter the next choice until the choice of 'Q' (Quit) is
