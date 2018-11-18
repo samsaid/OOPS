@@ -1,7 +1,3 @@
-// Assignment #: 11
-// Name: Samira Said
-// StudentID: 1210662853
-// Lecture: TTH 3:00pm
 // Description: Assignment 11 class displays a menu of choices to a user
 //        and performs the chosen task. It will keep asking a user to
 //      enter the next choice until the choice of 'Q' (Quit) is entered.
