@@ -1,10 +1,5 @@
-// Assignment #: 4
-// Name: Samira Said
-// StudentID:1210662853
-// Lecture: 3:00p
-// Description: Assignment 4 class displays a menu of choices to a user
-//        and performs the chosen task. It will keep asking a user to
-//        enter the next choice until the choice of 'Q' (Quit) is entered.
+//This class displays a menu of choices to a user and performs the chosen task. It will keep asking a user to
+// enter the next choice until the choice of 'Q' (Quit) is entered.
 
 import java.io.*;    //to use InputStreamReader and BufferedReader
 import java.util.*;
