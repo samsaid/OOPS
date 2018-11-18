@@ -1,11 +1,9 @@
-import java.util.Stack;
 
-// Assignment #: 11
-// Name: Samira Said
-// StudentID: 1210662853
-// Lecture: TTH 3:00pm
-// Description: takes an input string and reads every char
-//				from left to right then returns 0-4 based on the following description
+
+// Description: This class takes an input string and reads every char
+// from left to right then returns 0-4 based on the following description.
+
+import java.util.Stack;
 
 public class Matching {
 
