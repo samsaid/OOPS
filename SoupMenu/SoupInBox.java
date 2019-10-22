@@ -22,7 +22,6 @@ public class SoupInBox extends Soup {
 		totalPrice = (int) (volume * unitPrice);
 	}
 	//method #2
-	//hello hoe pls work
 	public String toString(){
 		String result = "";
 		result ="\n" + "The Soup in a Box Container" + "\n"
